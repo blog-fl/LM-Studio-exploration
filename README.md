@@ -9,3 +9,6 @@ Exploration of LM Studio
 *Check the model card README if you are unsure if the model supports structured output.*
 
 E.g: https://lmstudio.ai/models/google/gemma-3-12b, https://lmstudio.ai/models/mistralai/mistral-nemo-instruct-2407
+
+- Function / Tool: https://lmstudio.ai/docs/app/api/tools
+- OpenAI Compatibility API: https://lmstudio.ai/docs/app/api/endpoints/openai
